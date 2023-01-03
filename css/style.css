@@ -104,12 +104,9 @@ body{
   color: var(--dark-color);
 }
 
-
 /* features */
 
-
 /* about-us */
-
 
 /* our-team */
 .our-team{
@@ -122,8 +119,6 @@ body{
 .our-team-item-text {
   text-align: center;
 }
-
-
 
 /* footer */
 .footer{
